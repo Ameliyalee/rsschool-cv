@@ -1,2 +1,2 @@
-https://Ameliyalee.github.io/rsschool-cv/cv
+https://Ameliyalee.github.io/rsschool-cv/
 
