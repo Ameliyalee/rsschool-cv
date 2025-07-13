@@ -1,0 +1,21 @@
+               .profile-card img{
+                width: 150px;
+                height: 150px;
+                margin-bottom: 15px;
+                border-radius: 50%;
+            }
+            .profile-card h2{
+                font-size: 20px;
+                color: #333;
+                margin-bottom: 5px;
+            }
+            .profile-card p{
+                font-size: 16px;
+                color: #666;
+             }
+            
+            .profile-card button:hover{
+                background-color: darkgreen;
+            }
+        .cv { font-size: 16px;
+                color: hwb(241 23% 11%); }
